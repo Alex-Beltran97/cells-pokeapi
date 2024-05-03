@@ -1,0 +1,22 @@
+{
+  "name": "@prueba-tech/ui-pokemon-list",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "files": [
+    "/src/",
+    "/locales/",
+    "*.js",
+    "!**/*.scss"
+  ],
+  "dependencies": {
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.4",
+    "@bbva-web-components/bbva-foundations-styles": "^2.3.5",
+    "@prueba-tech/ui-pokemon-card": "git+ssh://git@globaldevtools.bbva.com:7999/~pedroalexander.beltran.contractor.cidentity/ui-pokemon-card.git#master",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.1.0"
+  }
+}

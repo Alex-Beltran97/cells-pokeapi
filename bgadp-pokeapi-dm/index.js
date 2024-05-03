@@ -1,0 +1,1 @@
+export { BgadpPokeapiDm } from './src/BgadpPokeapiDm.js';

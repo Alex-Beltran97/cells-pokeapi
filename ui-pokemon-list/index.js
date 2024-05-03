@@ -1,0 +1,1 @@
+export { UiPokemonList } from './src/UiPokemonList.js';

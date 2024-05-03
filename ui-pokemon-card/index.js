@@ -1,0 +1,1 @@
+export { UiPokemonCard } from './src/UiPokemonCard.js';
